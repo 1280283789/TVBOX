@@ -1,26 +1,9 @@
-{"urls": [
-{"url": "http://饭太硬.com/tv","name":"饭太硬线路"},
-{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1280283789/TVBOX/main/pg/jsm.json","name":"PG线路"},
-{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"潇洒GY线路"},
-{"url": "http://ok321.top/tv","name":"OK线路"},
-{"url": "https://盒子迷.top/禁止贩卖","name":"盒子迷"},
-{"url": "http://肥猫.com","name":"肥猫线路"},
-{"url": "http://cdn.qiaoji8.com/tvbox.json","name":"巧计线路"},
-{"url": "https://weixine.net/ysc.json","name":"运输车线路"},
-{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"香雅情线路"},
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云"},
-{"url": "http://bp.tvbox.cam/","name":"小白线路"},
-{"url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0","name":"吾爱线路"},
-{"url": "https://yydf.540734621.xyz/QQ/yydf2024.json","name":"业余打发"},
-{"url": "http://tv.nxog.top/m","name":"讴歌线路"},
-{"url": "https://ysys.lic10.cn/ys/ysys.json","name":"余生线路"},
-{"url": "http://我不是.摸鱼儿.top","name":"摸鱼线路"},
-{"url": "http://rihou.cc:88/荷城茶秀","name":"荷城茶秀"},
-{"url": "https://100km.top/0","name":"骚零线路"},
-{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/xmbjmjk/main/xmbjm.json","name":"拾光线路"},
-{"url": "http://www.wya6.cn/tv/yc.json","name":"无意线路"},
-{"url": "https://pastebin.com/raw/5NHaxyGR","name":"道长线路"},
-{"url": "https://xhdwc.tk/0","name":"dsawi0线路"}
+{ “网址” : [
+{  "url" : "http://饭太硬.com/tv" , "name" : "饭太硬线路"  } ,
+{ "url" : "https://github.moeyy.xyz/https://raw.githubusercontent.com/1280283789/TVBOX/main/pg/jsm.json" , "name" : "PG线路"  }，
+{    "url" : "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" , "name" : "潇洒GY线路"    } ,
+{   "url" : "https://weixine.net/ysc.json" , "name" : "运输车站"  } ,
+
 
 ]
 }
