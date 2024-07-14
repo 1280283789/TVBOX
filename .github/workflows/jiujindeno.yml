@@ -1,0 +1,42 @@
+# 此行为使用未经 GitHub 认证的操作。
+#它们由第三方提供，并受以下机构管辖：
+#我们的条款、隐私政策和支持
+#文档。
+
+# 此过程将安装 Deno，然后运行“deno lint”和“deno test”。
+# 更多信息请参阅：https://github.com/denoland/setup-deno
+
+姓名： 德诺
+
+在：
+  推：
+    分支：[ “主要的”] [ “主要的” ]
+  答案：
+    分支：[ “主要” ]  [ “主要的” ]
+
+权限：
+  内容：已读
+
+工作：
+  测试：
+    运行于：ubuntu-latest
+
+    脚步：
+      -           - 名称：安装 repo
+        用途：actions/checkout@v4
+
+      -           - 名称：设置 Deno
+        #用途：denoland/setup-deno@v1#用途：denoland/setup-deno@v1
+        使用：denoland/setup-deno@61fe2df320078202e33d7d5ad347e7dcfa0e8f31#v1.1.2使用：denoland/setup-deno@61fe2df320078202e33d7d5ad347e7dcfa0e8f31#v1.1.2使用：denoland/setup-deno@61fe2df320078202e33d7d5ad347e7dcfa0e8f31#v1.1.2 使用：denoland/setup-deno@61fe2df320078202e33d7d5ad347e7dcfa0e8f31#v1.1.2使用：denoland/setup-deno@61fe2df320078202e33d7d5ad347e7dcfa0e8f31#v1.1.2使用：denoland/setup-deno@61fe2df320078202e33d7d5ad347e7dcfa0e8f31#v1.1.2
+        和：
+          deno 版本：v1.x
+
+      # 取消注释此步骤以验证每次提交时“deno fmt”的使用情况。
+      #-名称：验证格式
+      # 运行：deno fmt --check
+
+      - name: Run linter
+        run: deno lint
+
+      - name: Run tests
+        run: deno test -A
