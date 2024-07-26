@@ -18,14 +18,14 @@ CCTV-15,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227918/index.m3u8
 CCTV-17,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 CCTV-10,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227809/index.m3u8
 CCTV-1 ,http://175.155.75.71:80/wh7f454c46tw4125685973_1826730589/PLTV/88888888/224/3221227479/index.m3u8
-CCTV-2 ,http://175.155.75.75:80/PLTV/88888888/224/3221227477/1.m3u8
+CCTV-2,http://175.155.75.75:80/PLTV/88888888/224/3221227477/1.m3u8
 CCTV-3 ,http://175.155.75.74:80/PLTV/88888888/224/3221227435/1.m3u8
 CCTV-4 ,http://175.155.75.68:80/PLTV/88888888/224/3221227373/1.m3u8
-CCTV-5 ， http://175.155.75.66:80/PLTV/88888888/224/3221227491/1.m3u8
+CCTV-5 ,http://175.155.75.66:80/PLTV/88888888/224/3221227491/1.m3u8
 CCTV-6 ,http://175.155.75.68:80/PLTV/88888888/224/3221227431/1.m3u8
 CCTV-7 ,http://175.155.75.74:80/PLTV/88888888/224/3221227429/1.m3u8
 CCTV-8 ,http://175.155.75.66:80/PLTV/88888888/224/3221227427/1.m3u8
-CCTV-9 ，http://175.155.75.74:80/PLTV/88888888/224/3221227425/1.m3u8
+CCTV-9 ,http://175.155.75.74:80/PLTV/88888888/224/3221227425/1.m3u8
 CCTV-10 ,http://175.155.75.72:80/PLTV/88888888/224/3221227375/1.m3u8
 CCTV-11 ,http://175.155.75.69:80/PLTV/88888888/224/3221227922/1.m3u8
 CCTV-12 ,http://175.155.75.75:80/PLTV/88888888/224/3221227377/1.m3u8
@@ -33,17 +33,17 @@ CCTV-13 ,http://175.155.75.69:80/PLTV/88888888/224/3221227926/1.m3u8
 CCTV-14 ,http://175.155.75.72:80/PLTV/88888888/224/3221227379/1.m3u8
 CCTV-5,http://175.155.75.74:80/PLTV/88888888/224/3221227933/1.m3u8
 CCTV-17 ,http://175.155.75.66:80/PLTV/88888888/224/3221227577/1.m3u8
-CCTV-5+ ,http://175.155.75.67:80/PLTV/88888888/224/3221227493/1.m3u8
-CCTV-1 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/1.m3u8
-CCTV-2 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226540/1.m3u8
-CCTV-3 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/1.m3u8
-CCTV-4 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226428/1.m3u8
-CCTV-5 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/1.m3u8
+CCTV-5+,http://175.155.75.67:80/PLTV/88888888/224/3221227493/1.m3u8
+CCTV-01 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/1.m3u8
+CCTV-02 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226540/1.m3u8
+CCTV-03 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/1.m3u8
+CCTV-04 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226428/1.m3u8
+CCTV-05 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/1.m3u8
 CCTV-5+ ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/1.m3u8
-CCTV-6 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/1.m3u8
-CCTV-7 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/1.m3u8
-CCTV-8 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/1.m3u8
-CCTV-9 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/1.m3u8
+CCTV-06 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/1.m3u8
+CCTV-07 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/1.m3u8
+CCTV-08 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/1.m3u8
+CCTV-09 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/1.m3u8
 CCTV-10 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/1.m3u8
 CCTV-11 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226565/1.m3u8
 CCTV-12 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/1.m3u8
@@ -79,12 +79,12 @@ CCTV-1,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/i
 CCTV-1,http://e58d3b.tv.netsite.cc/proxy/1964731068/1964731068.m3u8
 CCTV-1,http://nas.hssvm.com:8888/udp/225.1.1.120:5002
 CCTV-1,http://n1.dddmmh.space:8088/udp/225.0.4.74:7980
-CCTV-1,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-1,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv1hd/1200/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-1,http://36.40.236.175:9999/tsfile/live/0001_1.m3u8
 CCTV-2,http://221.4.143.69:8114/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBa03tuFR%2Fdsya1OSO0Z1VDEEWNg5ICoftLE%2FdS9%2BOGL0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141587490&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9a069bf67e38&FvSeid=88fe5578aee2f1ef&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9874&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466752&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-2-CQ&Fsv_CMSID=GD_CUCC
 CCTV-2,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
 CCTV-2,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
-CCTV-2,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv2hd/1500/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-2,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv2hd/1500/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-2,http://e58d3b.tv.netsite.cc/proxy/1486446687/1486446687.m3u8
 CCTV-2,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
 CCTV-2,http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBa03tuFR%2Fdsya1OSO0Z1VDEEWNg5ICoftLE%2FdS9%2BOGL0
@@ -102,7 +102,7 @@ CCTV-3,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
 CCTV-3,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
 CCTV-3,http://e58d3b.tv.netsite.cc/proxy/781829366/781829366.m3u8
 CCTV-3,http://sweetown.fun:4000/rtp/239.3.1.172:8001
-CCTV-3,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-3,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3,http://58.248.112.205:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBewnOI0Q0FnH0j6ix%2FEuEE%2FlrAcxI6a6K3gCsE%2F0xqwv
 CCTV-3,http://117.10.52.84:5000/udp/225.1.1.158:5002
@@ -116,7 +116,7 @@ CCTV-4,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
 CCTV-4,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://e58d3b.tv.netsite.cc/proxy/488588922/488588922.m3u8
-CCTV-4,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv4hd/1500/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-4,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv4hd/1500/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-4,http://58.248.112.205:8006/GD_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRab8%2B23dyjcWftcVGhPU%2BNGwbxMCOQz1LvVoHJF7Vi%2F
 CCTV-4,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
 CCTV-4,http://27.40.16.70:8114/GD_CUCC/G_CCTV-4-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
@@ -132,7 +132,7 @@ CCTV-5,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?
 CCTV-5,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8?2024
 CCTV-5,http://ik6.iptv8.net:8888/rtp/225.1.4.159:1195
 CCTV-5,http://e58d3b.tv.netsite.cc/proxy/1233541493/1233541493.m3u8
-CCTV-5,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=2024
+CCTV-5,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=2024
 CCTV-5,http://222.137.229.154:808/hls/5/index.m3u8
 CCTV-5,http://171.8.244.248:808/hls/5/index.m3u8
 CCTV-5,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
@@ -145,7 +145,7 @@ CCTV-5+,http://114.249.19.38:4022/rtp/239.3.1.173:8001
 CCTV-6,http://219.159.147.195:9901/tsfile/live/1008_1.m3u8
 CCTV-6,http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142154017&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9e73ad37b261&FvSeid=88fe5578aef0e784&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18133&Fsv_chan_hls_se_idx=57&Fsv_TBt=8464824&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-6-CQ&Fsv_CMSID=GD_CUCC
 CCTV-6,http://171.214.202.192:4000/udp/239.93.1.13:2226
-CCTV-6,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-6,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/ocn/cctv6hd/3000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-6,http://e58d3b.tv.netsite.cc/proxy/1275265590/1275265590.m3u8
 CCTV-6,http://27.10.209.50:8001/udp/225.0.4.144:7980
 CCTV-6,http://182.126.113.237:808/hls/6/index.m3u8
@@ -158,7 +158,7 @@ CCTV-6,http://222.137.229.154:808/hls/6/index.m3u8
 CCTV-6,http://27.40.16.70:8114/GD_CUCC/G_CCTV-6-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
 CCTV-6,http://171.8.245.181:808/hls/6/index.m3u8
 CCTV-7,http://120.87.97.245:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBbnOCQoNESV2qWsAYbhnlDiyPV4eph4rJWQgnDXisMTe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142251011&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9f359e8a15a7&FvSeid=88fe5578aef26916&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4291&Fsv_chan_hls_se_idx=57&Fsv_TBt=8467648&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-7-CQ&Fsv_CMSID=GD_CUCC
-CCTV-7,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-7,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv7hd/57/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-7,http://e58d3b.tv.netsite.cc/proxy/220822188/220822188.m3u8
 CCTV-7,http://58.248.112.205:8006/GD_CUCC/G_CCTV-7-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBbnOCQoNESV2qWsAYbhnlDiyPV4eph4rJWQgnDXisMTe
 CCTV-7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
@@ -175,7 +175,7 @@ CCTV-7,http://154.yfvodcdn.com:8080/live/jsydcctv7/hls.m3u8
 CCTV-8,http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142312998&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9fb1a10697de&FvSeid=88fe5578aef360be&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18131&Fsv_chan_hls_se_idx=56&Fsv_TBt=8466856&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-8-CQ&Fsv_CMSID=GD_CUCC
 CCTV-8,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
 CCTV-8,http://e58d3b.tv.netsite.cc/proxy/366510833/366510833.m3u8
-CCTV-8,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-8,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-8,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV-8,http://58.248.112.205:8006/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt
 CCTV-8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
@@ -188,7 +188,7 @@ CCTV-8,http://154.9.228.245:741/smt.php?id=cctv8hd
 CCTV-8,http://tvbox.netsite.cc/proxy/366510833/366510833.m3u8
 CCTV-8,http://loc.sportsontheweb.net/yfy.php?id=cctv8
 CCTV-9,http://221.4.143.69:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142362100&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea013cefbd9a1&FvSeid=88fe5578aeef086a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9866&Fsv_chan_hls_se_idx=56&Fsv_TBt=8466328&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-9-CQ&Fsv_CMSID=GD_CUCC
-CCTV-9,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-9,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv9hd/57/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-9,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
 CCTV-9,http://nas.hssvm.com:8888/udp/225.1.1.119:5002
 CCTV-9,http://e58d3b.tv.netsite.cc/proxy/1618579230/1618579230.m3u8
@@ -202,12 +202,12 @@ CCTV-9,http://27.40.16.70:8114/GD_CUCC/G_CCTV-9-CQ.m3u8?Provider_id=&Pcontent_id
 CCTV-9,http://154.9.228.245:741/smt.php?id=cctv9hd
 CCTV-9,http://14.153.244.101:8888/hls/5/index.m3u8
 CCTV-9,http://tvbox.netsite.cc/proxy/41408178/41408178.m3u8
-CCTV-10,http://120.87.97.246:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142432333&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea0a05b529be9&FvSeid=88fe5578aef54285&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4288&Fsv_chan_hls_se_idx=55&Fsv_TBt=8467232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-10-CQ&Fsv_CMSID=GD_CUCC
+CCTV-10,http://120.87.97.246:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBU9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142432333&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea0a05b529be9&FvSeid=88fe5578aef54285&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4288&Fsv_chan_hls_se_idx=55&Fsv_TBt=8467232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-10-CQ&Fsv_CMSID=GD_CUCC
 CCTV-10,http://115.60.241.249:2000/rtp/225.1.4.78:1107
 CCTV-10,http://e58d3b.tv.netsite.cc/proxy/1288910059/1288910059.m3u8
 CCTV-10,http://110.7.128.188:8096/tsfile/live/0010_1.m3u8
-CCTV-10,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-CCTV-10,http://58.248.112.205:8006/GD_CUCC/G_CCTV-10-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj
+CCTV-10,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-10,http://58.248.112.205:8006/GD_CUCC/G_CCTV-10-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBU9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj
 CCTV-10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV-10,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
 CCTV-10,http://27.40.16.70:8114/GD_CUCC/G_CCTV-10-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
@@ -218,7 +218,7 @@ CCTV-10,http://111.225.93.18:33333/hls/10/index.m3u8
 CCTV-10,http://66.165.240.154:8080/live/jsydcctv10/hls.m3u8
 CCTV-10,http://154.yfvodcdn.com:8080/live/jsydcctv10/hls.m3u8
 CCTV-11,http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBQtjk7PDi4fkN2nvO2gK27vcQcFLN2lXJ4FdJoL4kLn0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142503836&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea12f4d9ddde5&FvSeid=88fe5578aef65e1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18128&Fsv_chan_hls_se_idx=55&Fsv_TBt=4356104&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-11-CQ&Fsv_CMSID=GD_CUCC
-CCTV-11,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/cctv11hd/57/20200103/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-11,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/cctv11hd/57/20200103/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-11,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
 CCTV-11,http://e58d3b.tv.netsite.cc/proxy/1263246901/1263246901.m3u8
 CCTV-11,http://58.248.112.205:8006/GD_CUCC/G_CCTV-11-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBQtjk7PDi4fkN2nvO2gK27vcQcFLN2lXJ4FdJoL4kLn0
@@ -233,7 +233,7 @@ CCTV-11,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/888888
 CCTV-11,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
 CCTV-11,http://66.165.240.154:8080/live/jsydcctv11/hls.m3u8
 CCTV-12,http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRtFGgShYCQQqFHAFhzmleoLMq0KIThiOUWH4ztNrd0k&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142580867&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea1c95f2a805f&FvSeid=88fe5578aef792b7&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18127&Fsv_chan_hls_se_idx=54&Fsv_TBt=8466896&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-12-CQ&Fsv_CMSID=GD_CUCC
-CCTV-12,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-12,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv12hd/57/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-12,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
 CCTV-12,http://e58d3b.tv.netsite.cc/proxy/479563435/479563435.m3u8
 CCTV-12,http://58.248.112.205:8006/GD_CUCC/G_CCTV-12-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRtFGgShYCQQqFHAFhzmleoLMq0KIThiOUWH4ztNrd0k
@@ -251,8 +251,8 @@ CCTV-13,http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi
 CCTV-13,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 CCTV-13,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 CCTV-13,http://e58d3b.tv.netsite.cc/proxy/1100148851/1100148851.m3u8
-CCTV-13,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-CCTV-13,http://stream.smntv.cn/smtv1/sd/live.m3u8
+CCTV-13,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018//cctv13/2000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-13,http://stream.smntv.cn/smtv1//live.m3u8
 CCTV-13,http://62.210.209.138:41000/series/v52/v43/6818.mp4
 CCTV-13,http://stream.smntv.cn/smtv1/playlist.m3u8
 CCTV-13,http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz
@@ -265,7 +265,7 @@ CCTV-13,http://123.10.78.135:808/hls/13/index.m3u8
 CCTV-14,http://120.87.97.246:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBc44kHEGXWPeTdip0KbSgbcUS47HSY0WGvdsrttpfOO6&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142761082&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea331cc7525f8&FvSeid=88fe5578aefa65da&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4284&Fsv_chan_hls_se_idx=53&Fsv_TBt=8467848&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-14-CQ&Fsv_CMSID=GD_CUCC
 CCTV-14,http://itms.xznet.org:41097/rtp/239.254.200.162:6000
 CCTV-14,http://e58d3b.tv.netsite.cc/proxy/329783189/329783189.m3u8
-CCTV-14,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-14,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-14,http://58.248.112.205:8006/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBc44kHEGXWPeTdip0KbSgbcUS47HSY0WGvdsrttpfOO6
 CCTV-14,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
 CCTV-14,http://27.40.16.70:8114/GD_CUCC/G_CCTV-14-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
@@ -278,7 +278,7 @@ CCTV-14,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/888888
 CCTV-14,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225513/index.m3u8
 CCTV-14,http://36.129.204.120:880/DXCCTV14.m3u8
 CCTV-15,http://27.40.16.69:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142830484&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea3bca60188e9&FvSeid=88fe5578aefb7ba7&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4261&Fsv_chan_hls_se_idx=53&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-15-CQ&Fsv_CMSID=GD_CUCC
-CCTV-15,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-15,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv15hd/57/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-15,http://e58d3b.tv.netsite.cc/proxy/518544399/518544399.m3u8
 CCTV-15,http://58.248.112.205:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER
 CCTV-15,http://117.69.25.167:8888/rtp/238.1.78.222:7648
@@ -308,7 +308,7 @@ CCTV-16,http://loc.sportsontheweb.net/yfy.php?id=cctv16
 CCTV-16,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142953661&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea4b3041d0be6&FvSeid=88fe5578aefd65ce&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18122&Fsv_chan_hls_se_idx=52&Fsv_TBt=8466808&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-17-CQ&Fsv_CMSID=GD_CUCC
-CCTV-17,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV-17,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv17hd/57/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-17,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
 CCTV-17,http://e58d3b.tv.netsite.cc/proxy/642661480/642661480.m3u8
 CCTV-17,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
@@ -567,7 +567,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 中国功夫 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225681/1.m3u8
 明星大片 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225664/1.m3u8
 爱情喜剧 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225669/1.m3u8
-潮妈辣婆 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225685/1.m3u8
+
 龙江影视 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/1.m3u8
 东北热剧 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225741/1.m3u8
 纪实科教 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225729/1.m3u8
@@ -694,7 +694,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 广东卫视,http://xyt.186738613.xyz/lngd.php?id=092&Cf.m3u8
 广东卫视,https://z02.ubtvfans.com/live/rx1/231/4af913dbb7327724e4dfeaf41bfed24d/index.m3u8
 广东卫视,http://e58d3b.tv.netsite.cc/proxy/1094148202/1094148202.m3u8
-广东卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+广东卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/ws_w/gdws/gdws3000/3000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 广东卫视,http://59.44.102.18:8888/newlive/live/hls/38/live.m3u8
 广东卫视,http://58.248.112.205:8006/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfgbSbSCTYnboG1IAsnN%2B8QE6B7fY0qM5PCisIiFJCnl
 广东卫视,http://113.65.233.218:2888/udp/239.77.1.19:5146
@@ -753,7 +753,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 湖北卫视,http://e58d3b.tv.netsite.cc/proxy/1877417018/1877417018.m3u8
 湖北卫视,http://59.44.102.18:8888/newlive/live/hls/23/live.m3u8
 湖北卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8
-湖北卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+湖北卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 湖北卫视,https://z02.ubtvfans.com/live/rx1/227/068b04781b056d2c3151648287ed6517/index.m3u8
 湖北卫视,http://58.248.112.205:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfm12jp2Xf%2BoEVOwZjj0vsuZv6kEjBfquqPtTBEwcGKG
 湖北卫视,http://183.207.248.71/gitv/live1/G_HUBEI/G_HUBEI
@@ -793,18 +793,18 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 安徽卫视,http://xyt.186738613.xyz/lngd.php?id=096&Cf.m3u8
 安徽卫视,https://histar.zapi.us.kg/?id=anhui
 安徽卫视,http://27.40.16.70:8114/GD_CUCC/G_ANHUI-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
-重庆卫视,http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi5XA1hsd3RREgysPiqqJeQsy8aM7T7T6yS2xeSLQCNX&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183188119&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e62a9bf6c0a15&FvSeid=77fd5578ee79524c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4259&Fsv_chan_hls_se_idx=41&Fsv_TBt=8466936&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CHONGQING-CQ&Fsv_CMSID=GD_CUCC
+重庆卫视,http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi5XA1h3RREgysPiqqJeQsy8aM7T7T6yS2xeSLQCNX&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183188119&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e62a9bf6c0a15&FvSeid=77fd5578ee79524c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4259&Fsv_chan_hls_se_idx=41&Fsv_TBt=8466936&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CHONGQING-CQ&Fsv_CMSID=GD_CUCC
 重庆卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
-重庆卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+重庆卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018//chongqing/1000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 重庆卫视,http://59.44.102.18:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8
-重庆卫视,http://58.248.112.205:8006/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHS5XA1hsd3RREgysPiqqJeTFDuOvLs1zu4981Mqid2sx
+重庆卫视,http://58.248.112.205:8006/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHS5XA1h3RREgysPiqqJeTFDuOvLs1zu4981Mqid2sx
 重庆卫视,http://xyt.186738613.xyz/lngd.php?id=107&Cf.m3u8
 重庆卫视,http://ly123.fun:10000/rtp/235.254.196.249:1268
 重庆卫视,http://112.25.48.68/live/program/live/cqws/1300000/mnf.m3u8
 重庆卫视,http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8
 重庆卫视,http://183.207.248.71/gitv/live1/G_CHONGQING/G_CHONGQING
-重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
+重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018//chongqing/1000/index.m3u8?&encrypt=
 重庆卫视,https://histar.zapi.us.kg/?id=chongqing
 重庆卫视,http://e58d3b.tv.netsite.cc/proxy/2064842136/2064842136.m3u8
 重庆卫视,http://27.40.16.70:8114/GD_CUCC/G_CHONGQING-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
@@ -812,7 +812,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 东方卫视,http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKvFI8ayEeoekFD8P08%2F7EXHQHvoSr2x4xkdtxQfHt6cg&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178761860&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4014f3eb28dc&FvSeid=77fd5578ee342bde&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4254&Fsv_chan_hls_se_idx=49&Fsv_TBt=8467904&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_DONGFANG-CQ&Fsv_CMSID=GD_CUCC
 东方卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
 东方卫视,http://58.41.27.144:18888/udp/239.45.3.146:5140
-东方卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+东方卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 东方卫视,http://59.44.102.18:8888/newlive/live/hls/21/live.m3u8
 东方卫视,https://z02.ubtvfans.com/live/rx1/224/c54ace8dbf76790c64f75dc561d1414a/index.m3u8
 东方卫视,http://58.248.112.205:8006/GD_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfFI8ayEeoekFD8P08%2F7EXF4NHMHVaPey3ntJx7niV8g
@@ -827,7 +827,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 东南卫视,http://58.248.112.205:8006/GD_CUCC/G_DONGNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQ3sVbVN1ZTQKUpnK8xcf7yRQN%2BYLDq5f9pmexwERDLi
 东南卫视,http://182.122.75.192:8089/hls/46/index.m3u8
 东南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
-东南卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/dongnanws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+东南卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/dongnanws/57/20230724/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 东南卫视,https://z02.ubtvfans.com/live/rx1/228/df0d0f989d2e07d9530a01d006320ea7/index.m3u8
 东南卫视,http://125.210.152.18:9090/live/DNWSHD_H265.m3u8
 东南卫视,http://112.25.48.68/live/program/live/dnwshd/4000000/mnf.m3u8
@@ -840,7 +840,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 东南卫视,http://histar-proxy.isus.cc/dongnan
 甘肃卫视,http://120.87.97.245:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu8%2BHz6yr4RTNfYc5PxP2EiHpodLfG71p5gfWMpex5u%2B&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179903515&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e49004ccec872&FvSeid=77fd5578ee460191&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1041&Fsv_chan_hls_se_idx=19&Fsv_TBt=4355528&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GANSU-HQ&Fsv_CMSID=GD_CUCC
 甘肃卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gsws_4000.m3u8
-甘肃卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_v/2018/SD/gansu/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+甘肃卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_v/2018//gansu/1000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 甘肃卫视,http://58.248.112.205:8006/GD_CUCC/G_GANSU-HQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfMNI2CODDb8t3ggg2T5ExI6i2y9EEtsxJy36PFXT9B1
 甘肃卫视,http://175.0.92.57:9000/udp/239.76.246.94:1234
 甘肃卫视,http://112.25.48.68/live/program/live/gsws/1300000/mnf.m3u8
@@ -848,14 +848,14 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 甘肃卫视,http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888&checkedby:iptvcat.com
 甘肃卫视,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 甘肃卫视,http://xyt.186738613.xyz/lngd.php?id=119&Cf.m3u8
-甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018//gansu/1000/index.m3u8?&encrypt=
 甘肃卫视,https://histar.zapi.us.kg/?id=gansu
 甘肃卫视,http://27.40.16.70:8114/GD_CUCC/G_GANSU-HQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
 甘肃卫视,http://e58d3b.tv.netsite.cc/proxy/1209404373/1209404373.m3u8
 甘肃卫视,http://histar-proxy.isus.cc/gansu
 广西卫视,http://120.87.97.245:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkIecLjXoLUiOhb4XqRrxOuvJ2bhovth1ZiNfRiDsRl0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179210822&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4396f49e6225&FvSeid=77fd5578ee3b2d07&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1039&Fsv_chan_hls_se_idx=18&Fsv_TBt=4356480&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GUANGXI-HQ&Fsv_CMSID=GD_CUCC
 广西卫视,http://58.248.112.205:8006/GD_CUCC/G_GUANGXI-HQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNUIecLjXoLUiOhb4XqRrxOtj2euKCnEg1Eg8B4cNSNUX
-广西卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd-guangxiwssd-600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+广西卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd-guangxiws-600/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 广西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxws_4000.m3u8
 广西卫视,http://www.dsmcloud.top:8888/udp/239.81.0.107:4056
 广西卫视,http://xyt.186738613.xyz/lngd.php?id=116&Cf.m3u8
@@ -874,7 +874,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 贵州卫视,http://58.248.112.205:8006/GD_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWs5lc8HFQLTI9VPV%2F62TTuRQN%2BYLDq5f9pmexwERDLi
 贵州卫视,http://59.44.102.18:8888/newlive/live/hls/34/live.m3u8
 贵州卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8
-贵州卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd-guizhouwssd-600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+贵州卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd-guizhouws-600/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 贵州卫视,http://58.248.112.205:8006/GD_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNWs5lc8HFQLTI9VPV%2F62TTtga6C9mmCwOdyojSJe64LJ
 贵州卫视,http://e58d3b.tv.netsite.cc/proxy/1478277200/1478277200.m3u8
 贵州卫视,http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
@@ -886,7 +886,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 海南卫视,http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKuHFzyLGvmSMltQzCpEgABbzTx6xqsUWMTeDo0%2FrycmR&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182081651&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5a049b2f5521&FvSeid=77fd5578ee68091a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4380&Fsv_chan_hls_se_idx=20&Fsv_TBt=4357088&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HAINAN-HQ&Fsv_CMSID=GD_CUCC
 海南卫视,http://58.248.112.205:8006/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNYylaOGCCbFI4KByW%2F87hUz5B2cr%2BbHnB%2BDaMmm%2BwLki
 海南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnws_4000.m3u8
-海南卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/SD/lvyou/711/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+海南卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x//lvyou/711/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 海南卫视,http://e58d3b.tv.netsite.cc/proxy/2019508840/2019508840.m3u8
 海南卫视,http://112.25.48.68/live/program/live/lyws/1300000/mnf.m3u8
 海南卫视,http://e58d3b.tv.netsite.cc/proxy/1868988087/1868988087.m3u8
@@ -920,7 +920,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 河南卫视,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
 河南卫视,http://59.44.102.18:8888/newlive/live/hls/25/live.m3u8
 河南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnws35_4000.m3u8
-河南卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd-henanwssd-600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+河南卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd-henanws-600/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 河南卫视,http://112.25.48.68/live/program/live/hnws/1300000/mnf.m3u8
 河南卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 河南卫视,http://e58d3b.tv.netsite.cc/proxy/1919483832/1919483832.m3u8
@@ -932,7 +932,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 吉林卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
 吉林卫视,http://59.44.102.18:8888/newlive/live/hls/29/live.m3u8
 吉林卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8
-吉林卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+吉林卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_v/2018//jilin/1000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 吉林卫视,http://58.248.112.205:8006/GD_CUCC/G_JILIN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHSKeM%2FnJizcqZgRu5kTtQyRSM%2B19aM2hw2IMIRHBBV72
 吉林卫视,http://125.210.152.18:9090/live/JLWSHD_H265.m3u8
 吉林卫视,http://112.25.48.68/live/program/live/jlws/1300000/mnf.m3u8
@@ -944,7 +944,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 吉林卫视,http://histar-proxy.isus.cc/jilin
 吉林卫视,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1929207740
 江苏卫视,http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu%2BuH8HDFS0PtokY11nWnf4qV6vyu%2BOKjQBSSKsQUVYE&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178500503&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e3e0a43cf17e8&FvSeid=77fd5578ee3014e1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18120&Fsv_chan_hls_se_idx=51&Fsv_TBt=8465688&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_JIANGSU-CQ&Fsv_CMSID=GD_CUCC
-江苏卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+江苏卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 江苏卫视,http://59.44.102.18:8888/newlive/live/hls/22/live.m3u8
 江苏卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
 江苏卫视,http://58.248.112.205:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu%2BuH8HDFS0PtokY11nWnf4qV6vyu%2BOKjQBSSKsQUVYE
@@ -974,7 +974,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 江西卫视,http://xyt.186738613.xyz/lngd.php?id=098&Cf.m3u8
 江西卫视,http://202.103.213.44:8888/udp/239.81.0.38:4056
 辽宁卫视,http://123.163.55.234:9901/tsfile/live/0121_1.m3u8
-辽宁卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+辽宁卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 辽宁卫视,http://27.40.16.69:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkRqeVO49Tnq6K%2BWCd0TWOv%2FGe21maMcczv29zbhzU5i&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178917390&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e414c0b1d923b&FvSeid=77fd5578ee3699e0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4251&Fsv_chan_hls_se_idx=48&Fsv_TBt=8467984&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_LIAONING-CQ&Fsv_CMSID=GD_CUCC
 辽宁卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
 辽宁卫视,http://58.248.112.205:8006/GD_CUCC/G_LIAONING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHURqeVO49Tnq6K%2BWCd0TWOt4NHMHVaPey3ntJx7niV8g
@@ -990,7 +990,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 辽宁卫视,https://histar.zapi.us.kg/?id=liaoning
 内蒙古卫视,http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtadjOJg8CbeqsqTgzJiG7FM7k1u027nYSb3VMtNVHOm&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182669897&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5e9d43853283&FvSeid=77fd5578ee7139f9&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3106&Fsv_chan_hls_se_idx=24&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_NEIMENGGU&Fsv_CMSID=GD_CUCC
 内蒙古卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/nmgws_4000.m3u8
-内蒙古卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_w/2018/SD/neimeng/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+内蒙古卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_w/2018//neimeng/1000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 内蒙古卫视,http://58.248.112.205:8006/GD_CUCC/G_NEIMENGGU.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNYFMIoy2s%2FCAmkNQOuZcBWhwkIDW5f6hbjzk4wp1EdU3
 内蒙古卫视,http://e58d3b.tv.netsite.cc/proxy/1149350272/1149350272.m3u8
 内蒙古卫视,http://111.127.88.85:8888/udp/239.29.0.2:5000
@@ -1005,7 +1005,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 内蒙古卫视,http://ddns.372101.best:9981/stream/channelid/560220762?profile=pass
 宁夏卫视,http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKrEoOVZkTXPRpyu8Fec9vdCdoyO018NO14G7CqFI6mAm&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182701912&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5edd129ab3fd&FvSeid=77fd5578ee71bb73&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3108&Fsv_chan_hls_se_idx=25&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_NINGXIA&Fsv_CMSID=GD_CUCC
 宁夏卫视,http://58.248.112.205:8006/GD_CUCC/G_NINGXIA.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNXyCepDydwXYXyezoq8lxq1MyQJIPK6pHHgqQuSN6VSe
-宁夏卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018/SD/ningxia/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+宁夏卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018//ningxia/1000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 宁夏卫视,http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8
 宁夏卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
 宁夏卫视,http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
@@ -1019,11 +1019,11 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 宁夏卫视,http://ddns.372101.best:9981/stream/channelid/285633270?profile=pass
 宁夏卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/870186871?ticket=b96ef8c122cb58792291cdc6e7be7ba910e80a44
 青海卫视,http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtPONYs6QtaHPseT96s%2FID0CJK8A3PYAgbxQETLpGrgj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183368940&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e641325baf208&FvSeid=77fd5578ee7c278e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18141&Fsv_chan_hls_se_idx=61&Fsv_TBt=2287408&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_QINGHAI&Fsv_CMSID=GD_CUCC
-青海卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_w/2018/SD/qinghai/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+青海卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_w/2018//qinghai/1000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 青海卫视,http://58.248.112.205:8006/GD_CUCC/G_QINGHAI.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNQd8WQ5jaIFuIx4Sh5YvGI1lofE4cVEkemJD5Zxki%2FhU
 青海卫视,http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8
 青海卫视,http://xyt.186738613.xyz/lngd.php?id=111&Cf.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+青海卫视,http://stream.qhbtv.com/qhws//live.m3u8?_upt=1da074361609506578
 青海卫视,https://histar.zapi.us.kg/?id=qinghai
 青海卫视,http://39.134.65.76:80/wh7f454c46tw3018771670_1594237566/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 青海卫视,http://e58d3b.tv.netsite.cc/proxy/1152127449/1152127449.m3u8
@@ -1034,15 +1034,15 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 青海卫视,http://rqd.mytvh.top:10287/stream/channelid/1160812103?ticket=3961af72c23de9039f119947f9e15f9f9da4b0b3&profile=pass
 青海卫视,http://ddns.372101.best:9981/stream/channelid/1899737715?profile=pass
 山东卫视,http://120.87.97.245:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKo%2BfIJoJ9xhIZtB7lTaNNRKhgu973cupNzXqrFaHpa4m&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179016159&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e421184ec77bb&FvSeid=77fd5578ee382291&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4271&Fsv_chan_hls_se_idx=47&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SHANDONG-CQ&Fsv_CMSID=GD_CUCC
-山东卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+山东卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/wsH265_4000.m3u8
 山东卫视,http://58.248.112.205:8006/GD_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHY%2BfIJoJ9xhIZtB7lTaNNRJ4NHMHVaPey3ntJx7niV8g
 山东卫视,http://113.120.108.236:4000/udp/239.21.1.52:5002
 山东卫视,http://171.108.239.98:8181/tsfile/live/1083_1.m3u8
 山东卫视,http://59.44.102.18:8888/newlive/live/hls/30/live.m3u8
-山东卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+山东卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 山东卫视,http://e58d3b.tv.netsite.cc/proxy/1763730718/1763730718.m3u8
-山东卫视,http://183.207.248.71/gitv/live1/SDWS/SDWS
-山东卫视,http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
+山东卫视,http://183.207.248.71/gitv/live1/WS/WS
+山东卫视,http://125.210.152.18:9090/live/WSHD_H265.m3u8
 山东卫视,http://183.207.248.71/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
 山东卫视,http://223.110.245.139/PLTV/4/224/3221227448/index.m3u8
 山东卫视,http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv/1.m3u8
@@ -1067,7 +1067,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 陕西卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 陕西卫视,http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD
 陕西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sxws_4000.m3u8
-陕西卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/shan3xiws/57/20220809/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+陕西卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/shan3xiws/57/20220809/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 陕西卫视,http://e58d3b.tv.netsite.cc/proxy/917851306/917851306.m3u8
 陕西卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
 陕西卫视,http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8
@@ -1079,11 +1079,11 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 陕西卫视,http://histar-proxy.isus.cc/shaanxi
 陕西卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227127/index.m3u8
 四川卫视,http://125.71.57.148:4022/udp/239.93.0.169:5140
-四川卫视,http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKihysHnFVsdNiy%2FnVMuA%2F2uEYXiVeRF%2BucKv3Z40C7o4&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182969797&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e60f4e1f02053&FvSeid=77fd5578ee75ea0c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18102&Fsv_chan_hls_se_idx=42&Fsv_TBt=8468784&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SICHUAN-CQ&Fsv_CMSID=GD_CUCC
+四川卫视,http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKihysHnFVNiy%2FnVMuA%2F2uEYXiVeRF%2BucKv3Z40C7o4&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182969797&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e60f4e1f02053&FvSeid=77fd5578ee75ea0c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18102&Fsv_chan_hls_se_idx=42&Fsv_TBt=8468784&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SICHUAN-CQ&Fsv_CMSID=GD_CUCC
 四川卫视,http://125.71.157.18:3333/udp/239.93.1.188:5140
 四川卫视,http://59.44.102.18:8888/newlive/live/hls/27/live.m3u8
 四川卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/scwsH265_4000.m3u8
-四川卫视,http://58.248.112.205:8006/GD_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHShysHnFVsdNiy%2FnVMuA%2F2ui53pLIt5xLZYRaSNohMBM
+四川卫视,http://58.248.112.205:8006/GD_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHShysHnFVNiy%2FnVMuA%2F2ui53pLIt5xLZYRaSNohMBM
 四川卫视,http://182.138.179.81:888/udp/239.93.0.169:5140
 四川卫视,http://e58d3b.tv.netsite.cc/proxy/1727775864/1727775864.m3u8
 四川卫视,http://125.210.152.18:9090/live/SCWSHD_H265.m3u8
@@ -1145,7 +1145,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 西藏卫视,http://wouu.net:9977/udp/239.93.0.175:5140， 
 新疆卫视,http://wouu.net:9977/udp/239.93.0.194:5140， 
 海南卫视,http://wouu.net:9977/udp/239.93.0.80:5140， 
-陕西农林,http://wouu.net:9977/udp/239.93.0.100:5140， 
+
 兵团卫视,http://wouu.net:9977/udp/239.93.42.43:5140， 
 厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140， 
 三沙卫视,http://wouu.net:9977/udp/239.93.42.58:5140，
@@ -1172,32 +1172,19 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 云南卫视,http://dns.art2kn.win:7000/rtp/239.3.1.26:8108, 
 兵团卫视,http://dns.art2kn.win:7000/rtp/239.3.1.144:4120,
  厦门卫视,http://dns.art2kn.win:7000/rtp/239.3.1.143:4120,
-CCTV12,http://cq6.xeace.top:20002/udp/235.254.198.8:1308
-CCTV12,http://cq6.xeace.top:20002/udp/235.254.199.60:7980
-CCTV12,http://cq6.xeace.top:20002/udp/235.254.199.8:7980
-CCTV13,http://cq6.xeace.top:20002/udp/235.254.197.162:7980
-CCTV13,http://cq6.xeace.top:20002/udp/235.254.197.9:7980
-CCTV14,http://cq6.xeace.top:20002/udp/235.254.199.61:7980
-CCTV14,http://cq6.xeace.top:20002/udp/235.254.199.10:7980
-CCTV14SD,http://cq6.xeace.top:20002/udp/235.254.197.10:7980
-CCTV15,http://183.66.66.199:2345/udp/235.254.196.163:7980
-CCTV15,http://cq6.xeace.top:20002/udp/235.254.197.163:7980
-CCTV15SD,http://cq6.xeace.top:20002/udp/235.254.197.11:7980
-CCTV17SD,http://cq6.xeace.top:20002/udp/235.254.199.131:7980
-CETV1,http://cq6.xeace.top:20002/udp/235.254.199.196:7980
-CETV4SD,http://cq6.xeace.top:20002/udp/235.254.199.197:7980
-CGTN,http://cq6.xeace.top:20002/udp/235.254.199.12:7980
-CGTNSD,http://cq6.xeace.top:20002/udp/235.254.197.5:7980
+
+
+
 CHC动作电影,http://cq6.xeace.top:20002/udp/235.254.199.247:7980
 CHC高清电影,http://cq6.xeace.top:20002/udp/235.254.199.248:7980
 CHC家庭影院,http://cq6.xeace.top:20002/udp/235.254.199.246:7980
 
 
-爱上4k,http://cq6.xeace.top:20002/udp/235.254.199.102:7980
+
 
 安徽卫视,http://cq6.xeace.top:20002/udp/235.254.198.65:1536
 安徽卫视,http://cq6.xeace.top:20002/udp/235.254.199.20:7980
-北京卡酷少儿,http://cq6.xeace.top:20002/udp/235.254.199.49:7980
+
 北京卫视,http://cq6.xeace.top:20002/udp/235.254.197.14:7980
 北京卫视,http://cq6.xeace.top:20002/udp/235.254.198.21:1360
 北京卫视,http://cq6.xeace.top:20002/udp/235.254.198.66:1540
@@ -1207,51 +1194,51 @@ CHC家庭影院,http://cq6.xeace.top:20002/udp/235.254.199.246:7980
 电视剧,http://cq6.xeace.top:20002/udp/235.254.199.101:7980
 电视剧,http://cq6.xeace.top:20002/udp/235.254.199.83:7980
 电视剧,http://cq6.xeace.top:20002/udp/235.254.199.85:7980
-电视剧SD,http://cq6.xeace.top:20002/udp/235.254.199.76:7980
+电视剧,http://cq6.xeace.top:20002/udp/235.254.199.76:7980
 电影,http://cq6.xeace.top:20002/udp/235.254.199.74:7980
-电影轮播1SD,http://cq6.xeace.top:20002/udp/235.254.199.15:7980
+电影轮播1,http://cq6.xeace.top:20002/udp/235.254.199.15:7980
 东方卫视,http://cq6.xeace.top:20002/udp/235.254.199.73:7980
-东方卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.13:7980
+东方卫视,http://cq6.xeace.top:20002/udp/235.254.197.13:7980
 东南卫视,http://cq6.xeace.top:20002/udp/235.254.199.129:7980
 东南卫视,http://cq6.xeace.top:20002/udp/235.254.198.35:1416
-东南卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.24:7980
+东南卫视,http://cq6.xeace.top:20002/udp/235.254.197.24:7980
 动画,http://cq6.xeace.top:20002/udp/235.254.198.87:1624
-动画SD,http://cq6.xeace.top:20002/udp/235.254.199.87:7980
+动画,http://cq6.xeace.top:20002/udp/235.254.199.87:7980
 动漫,http://cq6.xeace.top:20002/udp/235.254.197.51:7980
 动漫秀场,http://cq6.xeace.top:20002/udp/235.254.197.47:7980
-动作影院SD,http://cq6.xeace.top:20002/udp/235.254.199.99:7980
+动作影院,http://cq6.xeace.top:20002/udp/235.254.199.99:7980
 都市剧场,http://183.66.66.199:2345/udp/235.254.196.151:7980
 都市剧场,http://cq6.xeace.top:20002/udp/235.254.197.41:7980
 
 甘肃卫视,http://cq6.xeace.top:20002/udp/235.254.199.48:7980
-甘肃卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.175:7980
+甘肃卫视,http://cq6.xeace.top:20002/udp/235.254.197.175:7980
 光影,http://cq6.xeace.top:20002/udp/235.254.198.91:1640
-光影SD,http://cq6.xeace.top:20002/udp/235.254.199.91:7980
+光影,http://cq6.xeace.top:20002/udp/235.254.199.91:7980
 广东卫视,http://cq6.xeace.top:20002/udp/235.254.197.186:7980
 广东卫视,http://cq6.xeace.top:20002/udp/235.254.198.37:1424
-广东卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.21:7980
+广东卫视,http://cq6.xeace.top:20002/udp/235.254.197.21:7980
 广西卫视,http://cq6.xeace.top:20002/udp/235.254.198.38:1428
-广西卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.22:7980
-广西卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.38:7980
+广西卫视,http://cq6.xeace.top:20002/udp/235.254.197.22:7980
+广西卫视,http://cq6.xeace.top:20002/udp/235.254.199.38:7980
 贵州卫视,http://cq6.xeace.top:20002/udp/235.254.197.32:7980
 贵州卫视,http://cq6.xeace.top:20002/udp/235.254.198.185:7980
 贵州卫视,http://cq6.xeace.top:20002/udp/235.254.199.185:7980
 国学,http://cq6.xeace.top:20002/udp/235.254.198.84:1612
-国学SD,http://cq6.xeace.top:20002/udp/235.254.199.84:7980
-海南卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.23:7980
-海南卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.176:7980
-海南卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.44:7980
+国学,http://cq6.xeace.top:20002/udp/235.254.199.84:7980
+海南卫视,http://cq6.xeace.top:20002/udp/235.254.197.23:7980
+海南卫视,http://cq6.xeace.top:20002/udp/235.254.199.176:7980
+海南卫视,http://cq6.xeace.top:20002/udp/235.254.199.44:7980
 河北卫视,http://cq6.xeace.top:20002/udp/235.254.198.184:7980
 河北卫视,http://cq6.xeace.top:20002/udp/235.254.199.184:7980
 河北卫视,http://cq6.xeace.top:20002/udp/235.254.199.36:7980
-河南卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.27:7980
-河南卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.26:7980
+河南卫视,http://cq6.xeace.top:20002/udp/235.254.197.27:7980
+河南卫视,http://cq6.xeace.top:20002/udp/235.254.199.26:7980
 黑龙江卫视,http://cq6.xeace.top:20002/udp/235.254.198.27:1384
-黑龙江卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.27:7980
+黑龙江卫视,http://cq6.xeace.top:20002/udp/235.254.199.27:7980
 湖北卫视,http://cq6.xeace.top:20002/udp/235.254.199.32:7980
 湖北卫视,http://cq6.xeace.top:20002/udp/235.254.199.72:7980
 湖南卫视,http://cq6.xeace.top:20002/udp/235.254.199.62:7980
-湖南卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.139:7980
+湖南卫视,http://cq6.xeace.top:20002/udp/235.254.199.139:7980
 
 吉林卫视,http://cq6.xeace.top:20002/udp/235.254.198.39:1432
 吉林卫视,http://cq6.xeace.top:20002/udp/235.254.199.39:7980
@@ -1260,14 +1247,14 @@ CHC家庭影院,http://cq6.xeace.top:20002/udp/235.254.199.246:7980
 
 江苏卫视,http://cq6.xeace.top:20002/udp/235.254.198.64:1532
 江苏卫视,http://cq6.xeace.top:20002/udp/235.254.199.64:7980
-江苏卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.15:7980
-江苏卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.19:7980
+江苏卫视,http://cq6.xeace.top:20002/udp/235.254.197.15:7980
+江苏卫视,http://cq6.xeace.top:20002/udp/235.254.199.19:7980
 江西卫视,http://cq6.xeace.top:20002/udp/235.254.198.29:1392
-江西卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.190:7980
-江西卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.29:7980
+江西卫视,http://cq6.xeace.top:20002/udp/235.254.199.190:7980
+江西卫视,http://cq6.xeace.top:20002/udp/235.254.199.29:7980
 
 金鹰卡通,http://cq6.xeace.top:20002/udp/235.254.198.50:1476
-金鹰卡通SD,http://cq6.xeace.top:20002/udp/235.254.199.50:7980
+金鹰卡通,http://cq6.xeace.top:20002/udp/235.254.199.50:7980
 经典电影,http://cq6.xeace.top:20002/udp/235.254.198.114:1732
 
 辽宁卫视,http://cq6.xeace.top:20002/udp/235.254.197.17:7980
@@ -1278,33 +1265,33 @@ CHC家庭影院,http://cq6.xeace.top:20002/udp/235.254.199.246:7980
 
 芒果TV,http://cq6.xeace.top:20002/udp/235.254.196.206:7980
 
-内蒙古卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.169:7980
-内蒙古卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.42:7980
-宁夏卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.45:7980
-黔江综合,http://cq6.xeace.top:20002/udp/235.254.199.233:7980
+内蒙古卫视,http://cq6.xeace.top:20002/udp/235.254.197.169:7980
+内蒙古卫视,http://cq6.xeace.top:20002/udp/235.254.199.42:7980
+宁夏卫视,http://cq6.xeace.top:20002/udp/235.254.199.45:7980
+黔江综合,http://cq6.xeace.top:20002/udp/235.254.199.233:798
 青海卫视,http://cq6.xeace.top:20002/udp/235.254.197.129:7980
 青海卫视,http://cq6.xeace.top:20002/udp/235.254.198.43:1448
 青海卫视,http://cq6.xeace.top:20002/udp/235.254.199.43:7980
 热播剧场,http://cq6.xeace.top:20002/udp/235.254.198.113:1728
-热播剧场SD,http://cq6.xeace.top:20002/udp/235.254.199.113:7980
+热播剧场,http://cq6.xeace.top:20002/udp/235.254.199.113:7980
 人与自然,http://cq6.xeace.top:20002/udp/235.254.199.78:7980
-山东教育SD,http://cq6.xeace.top:20002/udp/235.254.199.153:7980
+山东教育,http://cq6.xeace.top:20002/udp/235.254.199.153:7980
 山东卫视,http://cq6.xeace.top:20002/udp/235.254.198.24:1372
 山东卫视,http://cq6.xeace.top:20002/udp/235.254.199.69:7980
-山东卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.19:7980
+山东卫视,http://cq6.xeace.top:20002/udp/235.254.197.19:7980
 山西卫视,http://cq6.xeace.top:20002/udp/235.254.199.41:7980
-山西卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.31:7980
+山西卫视,http://cq6.xeace.top:20002/udp/235.254.197.31:7980
 陕西卫视,http://cq6.xeace.top:20002/udp/235.254.198.40:1436
 陕西卫视,http://cq6.xeace.top:20002/udp/235.254.199.40:7980
 少儿动画,http://cq6.xeace.top:20002/udp/235.254.198.116:1740
 深圳卫视,http://cq6.xeace.top:20002/udp/235.254.199.71:7980
 
-书画SD,http://cq6.xeace.top:20002/udp/235.254.199.199:7980
+书画,http://cq6.xeace.top:20002/udp/235.254.199.199:7980
 四川卫视,http://cq6.xeace.top:20002/udp/235.254.199.175:7980
 四川卫视,http://cq6.xeace.top:20002/udp/235.254.198.175:7980
 四川卫视,http://cq6.xeace.top:20002/udp/235.254.198.28:1388
 四川卫视,http://cq6.xeace.top:20002/udp/235.254.199.28:7980
-四川卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.33:7980
+四川卫视,http://cq6.xeace.top:20002/udp/235.254.197.33:7980
 
 台球,http://cq6.xeace.top:20002/udp/235.254.198.92:1644
 天津卫视,http://cq6.xeace.top:20002/udp/235.254.198.67:1544
@@ -1312,18 +1299,18 @@ CHC家庭影院,http://cq6.xeace.top:20002/udp/235.254.199.246:7980
 
 西藏卫视,http://cq6.xeace.top:20002/udp/235.254.198.46:1460
 喜剧影院,http://cq6.xeace.top:20002/udp/235.254.198.98:1668
-新疆卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.170:7980
-新疆卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.47:7980
+新疆卫视,http://cq6.xeace.top:20002/udp/235.254.197.170:7980
+新疆卫视,http://cq6.xeace.top:20002/udp/235.254.199.47:7980
 
 音乐吧,http://cq6.xeace.top:20002/udp/235.254.199.77:7980
 音乐现场,http://cq6.xeace.top:20002/udp/235.254.198.77:1584
 
-云南卫视SD,http://cq6.xeace.top:20002/udp/235.254.197.181:7980
-云南卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.25:7980
+云南卫视,http://cq6.xeace.top:20002/udp/235.254.197.181:7980
+云南卫视,http://cq6.xeace.top:20002/udp/235.254.199.25:7980
 
 浙江卫视,http://cq6.xeace.top:20002/udp/235.254.197.16:7980
 浙江卫视,http://cq6.xeace.top:20002/udp/235.254.199.63:7980
-浙江卫视SD,http://cq6.xeace.top:20002/udp/235.254.199.18:7980
+浙江卫视,http://cq6.xeace.top:20002/udp/235.254.199.18:7980
 
 CETV1,http://58.216.99.152:80/live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
 
@@ -1412,7 +1399,7 @@ CETV4,http://58.216.99.152:80/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
 天津卫视,http://histar-proxy.isus.cc/tianjin
 西藏卫视,http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKmxx5kvhKVtAPfH0qKl14uc0OofWCn8X%2F8yyIACfIeA3&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183009371&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e61441141c1fd&FvSeid=77fd5578ee768a7f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3143&Fsv_chan_hls_se_idx=28&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XIZANG&Fsv_CMSID=GD_CUCC
 西藏卫视,http://116.233.6.23:5022/udp/239.45.1.231:5140
-西藏卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018/SD/xizang/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+西藏卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018//xizang/1000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 西藏卫视,http://58.248.112.205:8006/GD_CUCC/G_XIZANG.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNbR%2FPUGXStastzd6V9maCJ%2FsIPvLhFJ9x8LZQ1Zuycim
 西藏卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8
 西藏卫视,http://xyt.186738613.xyz/lngd.php?id=121&Cf.m3u8
@@ -1427,7 +1414,7 @@ CETV4,http://58.216.99.152:80/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
 西藏卫视,http://luwenchu.oicp.net:9981/stream/channelid/1291689225
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 新疆卫视,http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi6FcStVNDiOP%2F2OqxiETIMcXVZrQaEXpNcm6hl5lagk&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183048966&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e61932f7943b8&FvSeid=77fd5578ee77266d&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=16959&Fsv_chan_hls_se_idx=28&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XINJIANG&Fsv_CMSID=GD_CUCC
-新疆卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd-xinjiangwssd-600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+新疆卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd-xinjiangws-600/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 新疆卫视,http://58.248.112.205:8006/GD_CUCC/G_XINJIANG.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNZawYET10Q5suT47CbQordGxiu60xA%2FnyKDeKR2mPPZL
 新疆卫视,http://e58d3b.tv.netsite.cc/proxy/1423426614/1423426614.m3u8
 新疆卫视,http://112.25.48.68/live/program/live/xjws/1300000/mnf.m3u8
@@ -1444,7 +1431,7 @@ CETV4,http://58.216.99.152:80/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
 云南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ynws_4000.m3u8
 云南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
 云南卫视,http://58.248.112.205:8006/GD_CUCC/G_YUNNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHcpOXbCYIiVElKHA3dFAzTD1BWtWU81eWqPvN0PhI2pD
-云南卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018/SD/yunnan/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+云南卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/envivo_x/2018//yunnan/1000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 云南卫视,http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8
 云南卫视,http://183.207.248.71/gitv/live1/G_YUNNAN/G_YUNNAN
 云南卫视,http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8
@@ -1462,7 +1449,7 @@ CETV4,http://58.216.99.152:80/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
 广东卫视,http://xyt.186738613.xyz/lngd.php?id=092&Cf.m3u8
 广东卫视,http://e58d3b.tv.netsite.cc/proxy/1094148202/1094148202.m3u8
 广东卫视,https://z02.ubtvfans.com/live/rx1/231/4af913dbb7327724e4dfeaf41bfed24d/index.m3u8
-广东卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+广东卫视,http://116.136.170.12/mgsp-tx.live.miguvideo.com/ws_w/gdws/gdws3000/3000/01.m3u8?msin=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 广东卫视,http://59.44.102.18:8888/newlive/live/hls/38/live.m3u8
 广东卫视,http://58.248.112.205:8006/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfgbSbSCTYnboG1IAsnN%2B8QE6B7fY0qM5PCisIiFJCnl
 广东卫视,http://113.65.233.218:2888/udp/239.77.1.19:5146
@@ -1494,8 +1481,8 @@ CETV4,http://58.216.99.152:80/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
 广西卫视,http://101.207.179.97:80/wh7f454c46tw3679253792_-1752876622/PLTV/88888888/224/3221227939/1.m3u8
 吉林卫视, http://101.206.157.5:80/wh7f454c46tw3753405968_-1441841061/PLTV/88888888/224/3221227935/1.m3u8
 甘肃卫视,http://101.207.179.106:80/PLTV/88888888/224/3221227937/1.m3u8
-中国交通,http://175.155.75.69:80/PLTV/88888888/224/3221227499/1.m3u8
-汽摩频道,http://101.207.179.98:80/PLTV/88888888/224/3221227968/1.m3u8
+
+
 上海纪实, http://175.155.75.71:80/PLTV/88888888/224/3221227349/1.m3u8
 金鹰纪实,http://175.155.75.72:80/PLTV/88888888/224/3221227371/1.m3u8
 厦门卫视,http://101.207.179.106:80/PLTV/88888888/224/3221227938/1.m3u8
