@@ -1,5 +1,5 @@
 中央视频道,#流派#
-成都影视http://58.223.166.16/live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8
+成都影视,http://58.223.166.16/live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8
 CCTV-1综合，http://183.11.239.36:808/hls/19/index.m3u8
 CCTV-2财经，http://183.11.239.36:808/hls/20/index.m3u8
 CCTV-3高清测试，http://183.11.239.36:808/hls/91/index.m3u8
@@ -7,7 +7,7 @@ CCTV-4中文国际，http://183.11.239.36:808/hls/22/index.m3u8
 CCTV-5高清测试，http://183.11.239.36:808/hls/93/index.m3u8
 CCTV-6高清测试，http://183.11.239.36:808/hls/94/index.m3u8
 CCTV-7国防军事，http://183.11.239.36:808/hls/25/index.m3u8
-中央电视台8套节目，http://183.11.239.36:808/hls/96/index.m3u8
+CCTV-8，http://183.11.239.36:808/hls/96/index.m3u8
 CCTV-9记录，http://183.11.239.36:808/hls/27/index.m3u8
 CCTV-10科教，http://183.11.239.36:808/hls/28/index.m3u8
 CCTV-11戏曲，http://183.11.239.36:808/hls/29/index.m3u8
