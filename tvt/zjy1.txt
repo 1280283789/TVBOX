@@ -3,6 +3,8 @@ CCTV-1,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 CCTV-2,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
 CCTV-3,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
 CCTV-4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227373/index.m3u8
+CCTV-16-4K,http://36.105.40.21:8083/udp/238.125.2.168:5140
+CCTV-16-4K,http://36.105.40.21:8083/udp/238.125.5.120:5140
 CCTV-5,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227491/index.m3u8
 CCTV-5+,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227493/index.m3u8
 CCTV-6,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227431/index.m3u8
@@ -11,9 +13,9 @@ CCTV-8,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227427/index.m3u8
 CCTV-9,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227425/index.m3u8
 CCTV-10,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227375/index.m3u8
 CCTV-11,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227922/index.m3u8
-CCTV12,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227377/index.m3u8
+CCTV-12,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227377/index.m3u8
 CCTV-13,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227926/index.m3u8
-CCTV14,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227379/index.m3u8
+CCTV-14,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227379/index.m3u8
 CCTV-15,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227918/index.m3u8
 CCTV-17,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 CCTV-10,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227809/index.m3u8
@@ -81,8 +83,7 @@ CCTV-15,http://36.105.40.21:8083/udp/238.125.4.11:5140
 CCTV-15,http://36.105.40.21:8083/udp/238.125.0.11:5140
 CCTV-15,http://36.105.40.21:8083/udp/238.125.4.84:5140
 CCTV-15,http://36.105.40.21:8083/udp/238.125.3.213:5140
-CCTV-16-4K,http://36.105.40.21:8083/udp/238.125.2.168:5140
-CCTV-16-4K,http://36.105.40.21:8083/udp/238.125.5.120:5140
+
 CCTV-16,http://36.105.40.21:8083/udp/238.125.2.183:5140
 CCTV-16,http://36.105.40.21:8083/udp/238.125.5.34:5140
 CCTV-17,http://36.105.40.21:8083/udp/238.125.3.152:5140
@@ -237,16 +238,16 @@ CCTV-8,http://124.116.183.146:9901/tsfile/live/0008_1.m3u8
 CCTV-13,http://124.116.183.146:9901/tsfile/live/0013_1.m3u8
 CCTV-14,http://124.116.183.146:9901/tsfile/live/0014_1.m3u8
 CCTV-15,http://124.116.183.146:9901/tsfile/live/0015_1.m3u8
-CCTV-01 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/1.m3u8
-CCTV-02 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226540/1.m3u8
-CCTV-03 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/1.m3u8
-CCTV-04 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226428/1.m3u8
-CCTV-05 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/1.m3u8
+CCTV-1 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/1.m3u8
+CCTV-2 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226540/1.m3u8
+CCTV-3 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/1.m3u8
+CCTV-4 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226428/1.m3u8
+CCTV-5 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/1.m3u8
 CCTV-5+ ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/1.m3u8
-CCTV-06 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/1.m3u8
-CCTV-07 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/1.m3u8
-CCTV-08 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/1.m3u8
-CCTV-09 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/1.m3u8
+CCTV-6 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/1.m3u8
+CCTV-7 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/1.m3u8
+CCTV-8 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/1.m3u8
+CCTV-9 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/1.m3u8
 CCTV-10 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/1.m3u8
 CCTV-11 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226565/1.m3u8
 CCTV-12 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/1.m3u8
@@ -285,7 +286,7 @@ CCTV-2,http://wouu.net:9977/udp/239.93.1.23:6000,
 CCTV-3,http://wouu.net:9977/udp/239.93.1.11:2223, 
 CCTV-4,http://wouu.net:9977/udp/239.93.1.105:5140,
  CCTV-5,http://wouu.net:9977/udp/239.93.42.37:5140, 
-CCTV-5＋,http://wouu.net:9977/udp/239.93.1.36:8004, 
+CCTV-5+,http://wouu.net:9977/udp/239.93.1.36:8004, 
 CCTV-6,http://wouu.net:9977/udp/239.93.1.13:2226, 
 CCTV-7,http://wouu.net:9977/udp/239.93.1.67:5140,
  CCTV-8,http://wouu.net:9977/udp/239.93.42.39:5140,
@@ -302,7 +303,7 @@ CCTV-2,http://dns.art2kn.win:7000/rtp/239.3.1.60:8084,
  CCTV-3,http://dns.art2kn.win:7000/rtp/239.3.1.172:8001,
  CCTV-4,http://dns.art2kn.win:7000/rtp/239.3.1.105:8092, 
 CCTV-5,http://dns.art2kn.win:7000/rtp/239.3.1.173:8001, 
-CCTV-5＋,http://dns.art2kn.win:7000/rtp/239.3.1.130:8004,
+CCTV-5+,http://dns.art2kn.win:7000/rtp/239.3.1.130:8004,
  CCTV-6,http://dns.art2kn.win:7000/rtp/239.3.1.174:8001, 
 CCTV-7,http://dns.art2kn.win:7000/rtp/239.3.1.61:8104, 
 CCTV-8,http://dns.art2kn.win:7000/rtp/239.3.1.175:8001, 
@@ -351,17 +352,25 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-
+云南卫视,http://dns.art2kn.win:7000/rtp/239.3.1.26:8108, 
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-
+内蒙古卫视,http://36.105.40.21:8083/udp/238.125.4.44:5140
+内蒙古卫视,http://36.105.40.21:8083/udp/238.125.0.44:5140
 青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-
+陕西卫视,http://36.105.40.21:8083/udp/238.125.5.121:5140
+陕西卫视,http://36.105.40.21:8083/udp/238.125.4.135:5140
+陕西卫视,http://36.105.40.21:8083/udp/238.125.0.135:5140
+陕西卫视,http://36.105.40.21:8083/udp/238.125.2.165:5140
+黑龙江卫视,http://36.105.40.21:8083/udp/238.125.0.41:5140
+黑龙江卫视,http://36.105.40.21:8083/udp/238.125.4.41:5140
+黑龙江卫视,http://36.105.40.21:8083/udp/238.125.5.8:5140
+黑龙江卫视,http://36.105.40.21:8083/udp/238.125.1.8:5140
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
@@ -403,10 +412,7 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 河南卫视,http://36.105.40.21:8083/udp/238.125.0.29:5140
 河南卫视,http://36.105.40.21:8083/udp/238.125.4.29:5140
 河南卫视,http://36.105.40.21:8083/udp/238.125.6.171:5140
-黑龙江卫视,http://36.105.40.21:8083/udp/238.125.0.41:5140
-黑龙江卫视,http://36.105.40.21:8083/udp/238.125.4.41:5140
-黑龙江卫视,http://36.105.40.21:8083/udp/238.125.5.8:5140
-黑龙江卫视,http://36.105.40.21:8083/udp/238.125.1.8:5140
+
 湖北卫视,http://36.105.40.21:8083/udp/238.125.5.10:5140
 湖北卫视,http://36.105.40.21:8083/udp/238.125.0.32:5140
 湖北卫视,http://36.105.40.21:8083/udp/238.125.4.32:5140
@@ -441,8 +447,8 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 安徽卫视,http://36.105.40.21:8083/udp/238.125.4.16:5140
 安徽卫视,http://36.105.40.21:8083/udp/238.125.5.9:5140
 安徽卫视,http://36.105.40.21:8083/udp/238.125.1.9:5140
-北京卡酷少儿,http://36.105.40.21:8083/udp/238.125.4.226:5140
-北京卡酷少儿,http://36.105.40.21:8083/udp/238.125.2.216:5140
+北京少儿,http://36.105.40.21:8083/udp/238.125.4.226:5140
+北京少儿,http://36.105.40.21:8083/udp/238.125.2.216:5140
 金色频道,http://36.105.40.21:8083/udp/238.125.0.47:5140
 金色频道,http://36.105.40.21:8083/udp/238.125.4.47:5140
 金色频道,http://36.105.40.21:8083/udp/238.125.5.115:5140
@@ -483,8 +489,7 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 辽宁卫视,http://36.105.40.21:8083/udp/238.125.5.15:5140
 辽宁卫视,http://36.105.40.21:8083/udp/238.125.4.23:5140
 辽宁卫视,http://36.105.40.21:8083/udp/238.125.1.15:5140
-内蒙古卫视,http://36.105.40.21:8083/udp/238.125.4.44:5140
-内蒙古卫视,http://36.105.40.21:8083/udp/238.125.0.44:5140
+
 青海卫视,http://36.105.40.21:8083/udp/238.125.0.39:5140
 青海卫视,http://36.105.40.21:8083/udp/238.125.4.39:5140
 三沙卫视,http://36.105.40.21:8083/udp/238.125.2.139:5140
@@ -513,10 +518,7 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 山东卫视,http://36.105.40.21:8083/udp/238.125.1.11:5140
 山西卫视,http://36.105.40.21:8083/udp/238.125.4.33:5140
 山西卫视,http://36.105.40.21:8083/udp/238.125.0.33:5140
-陕西,http://36.105.40.21:8083/udp/238.125.5.121:5140
-陕西卫视,http://36.105.40.21:8083/udp/238.125.4.135:5140
-陕西卫视,http://36.105.40.21:8083/udp/238.125.0.135:5140
-陕西卫视,http://36.105.40.21:8083/udp/238.125.2.165:5140
+
 广西卫视,http://60.10.135.181:555/udp/239.253.92.76:8043
 贵州卫视,http://60.10.135.181:555/udp/239.253.92.105:6055
 江西卫视,http://60.10.135.181:555/udp/239.253.92.19:6145
@@ -636,7 +638,7 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 天津卫视,http://zisong2014.oicp.net:4022/udp/225.1.2.185:5002
 天津卫视,http://zisong2014.oicp.net:4022/udp/225.1.2.187:5002
 天津卫视,http://zisong2014.oicp.net:4022/udp/225.1.2.188:5002
-天津IPTV,http://zisong2014.oicp.net:4022/udp/225.1.1.109:5002
+天津卫视,http://zisong2014.oicp.net:4022/udp/225.1.1.109:5002
 天津卫视,http://zisong2014.oicp.net:4022/udp/225.1.2.56:5002
 天津卫视,http://zisong2014.oicp.net:4022/udp/225.1.1.1:5002
 天津卫视,http://zisong2014.oicp.net:4022/udp/225.1.1.111:5002
@@ -829,7 +831,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 延边卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
 安多卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-康巴卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+
 
 北京卫视 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225728/1.m3u8
 天津卫视 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225740/1.m3u8
@@ -865,12 +867,11 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 安多卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225659/1.m3u8
 新疆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225635/1.m3u8
 兵团卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/1.m3u8
-内蒙卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225634/1.m3u8
+内蒙古卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225634/1.m3u8
 西藏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225638/1.m3u8
 辽宁卫视 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226546/1.m3u8
 吉林卫视 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/1.m3u8
 延边卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226516/1.m3u8
-龙江卫视 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/1.m3u8
 龙江少儿 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226304/1.m3u8
 卡酷少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/1.m3u8
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225653/1.m3u8
@@ -892,11 +893,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 精品萌宠 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226505/1.m3u8
 精品记录 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225672/1.m3u8
 惊悚悬疑 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225665/1.m3u8
-中国功夫 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225681/1.m3u8
 明星大片 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225664/1.m3u8
 爱情喜剧 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225669/1.m3u8
-潮妈辣婆 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225685/1.m3u8
-龙江影视 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/1.m3u8
 东北热剧 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225741/1.m3u8
 纪实科教 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225729/1.m3u8
 纪实人文 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225738/1.m3u8
@@ -931,7 +929,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 陕西卫视,http://wouu.net:9977/udp/239.93.0.176:5140， 
 云南卫视,http://wouu.net:9977/udp/239.93.0.174:5140， 
 山西卫视,http://wouu.net:9977/udp/239.93.0.6:5140， 
-内蒙古视,http://wouu.net:9977/udp/239.93.0.8:5140， 
+内蒙古卫视,http://wouu.net:9977/udp/239.93.0.8:5140， 
 青海卫视,http://wouu.net:9977/udp/239.93.0.192:5140， 
 宁夏卫视,http://wouu.net:9977/udp/239.93.0.247:5140， 
 西藏卫视,http://wouu.net:9977/udp/239.93.0.175:5140， 
@@ -961,7 +959,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
  东南卫视,http://dns.art2kn.win:7000/rtp/239.3.1.156:8148,
  江西卫视,http://dns.art2kn.win:7000/rtp/239.3.1.123:8164, 
 海南卫视,http://dns.art2kn.win:7000/rtp/239.3.1.45:8304, 
-云南卫视,http://dns.art2kn.win:7000/rtp/239.3.1.26:8108, 
+
 兵团卫视,http://dns.art2kn.win:7000/rtp/239.3.1.144:4120,
 厦门卫视,http://dns.art2kn.win:7000/rtp/239.3.1.143:4120,
 
@@ -997,7 +995,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
  兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0,
  新疆卫视,http://124.128.73.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0, 
 黑龙江视,http://124.128.73.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, 
-内蒙古视,http://124.128.73.58:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0,
+内蒙古卫视,http://124.128.73.58:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0,
 北京卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0, 
 东方卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0, 
 浙江卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, 
@@ -1029,69 +1027,3 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 甘肃卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, 
 山西卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, 
 河北卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0，
-
-百事通,http://36.105.40.21:8083/udp/238.125.3.127:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.66:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.67:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.59:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.60:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.61:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.62:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.69:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.64:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.65:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.66:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.67:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.68:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.69:5140
-百视通,http://36.105.40.21:8083/udp/238.125.2.145:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.62:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.65:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.68:5140
-百视通,http://36.105.40.21:8083/udp/238.125.5.47:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.59:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.251:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.61:5140
-百视通,http://36.105.40.21:8083/udp/238.125.3.63:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.64:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.63:5140
-百视通,http://36.105.40.21:8083/udp/238.125.7.60:5140
-百视通,http://36.105.40.21:8083/udp/238.125.5.93:5140
-
-CETV1,http://36.105.40.21:8083/udp/238.125.4.35:5140
-CETV1,http://36.105.40.21:8083/udp/238.125.0.35:5140
-CETV1,http://36.105.40.21:8083/udp/238.125.3.124:5140
-CETV1,http://36.105.40.21:8083/udp/238.125.5.51:5140
-CETV1,http://36.105.40.21:8083/udp/238.125.1.51:5140
-CETV2,http://36.105.40.21:8083/udp/238.125.0.36:5140
-CETV2,http://36.105.40.21:8083/udp/238.125.4.101:5140
-CETV2,http://36.105.40.21:8083/udp/238.125.2.234:5140
-CETV4,http://36.105.40.21:8083/udp/238.125.4.37:5140
-CETV4,http://36.105.40.21:8083/udp/238.125.0.37:5140
-CETV4,http://36.105.40.21:8083/udp/238.125.3.92:5140
-CETV4,http://36.105.40.21:8083/udp/238.125.2.141:5140
-CETV4,http://36.105.40.21:8083/udp/238.125.4.98:5140
-
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.162:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.163:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.164:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.166:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.167:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.168:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.170:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.211:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.212:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.93:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.1.97:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.2.130:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.2.93:5002
-百事通,http://zisong2014.oicp.net:4022/udp/225.1.2.97:5002
-BesTV,http://cq6.xeace.top:20002/udp/235.254.197.130:7980
-BesTV,http://cq6.xeace.top:20002/udp/235.254.197.131:7980
-百视通,http://cq6.xeace.top:20002/udp/235.254.197.132:7980
-百视通,http://cq6.xeace.top:20002/udp/235.254.197.136:7980
-百视通,http://cq6.xeace.top:20002/udp/235.254.197.236:7980
-百视通,http://cq6.xeace.top:20002/udp/235.254.197.133:7980
-百视通,http://cq6.xeace.top:20002/udp/235.254.197.134:7980
-百视通,http://cq6.xeace.top:20002/udp/235.254.197.135:7980
-
