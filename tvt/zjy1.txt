@@ -3,8 +3,9 @@ CCTV-1,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 CCTV-2,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
 CCTV-3,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
 CCTV-4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227373/index.m3u8
-CCTV-16-4K,http://36.105.40.21:8083/udp/238.125.2.168:5140
-CCTV-16-4K,http://36.105.40.21:8083/udp/238.125.5.120:5140
+CCTV-4K ,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-16.4K,http://36.105.40.21:8083/udp/238.125.2.168:5140
+CCTV-16.4K,http://36.105.40.21:8083/udp/238.125.5.120:5140
 CCTV-5,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227491/index.m3u8
 CCTV-5+,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227493/index.m3u8
 CCTV-6,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227431/index.m3u8
@@ -288,15 +289,10 @@ CCTV-14 ,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/8888
 CCTV-15 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-17 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K ,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV-1,http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183611097&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e65f76ef0fc78&FvSeid=77fd5578ee7feea2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4276&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466552&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
-CCTV-1,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV-1,http://nas.hssvm.com:8888/udp/225.1.1.120:5002
 CCTV-1,http://n1.dddmmh.space:8088/udp/225.0.4.74:7980
 CCTV-1,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
-
-
 
 CCTV-1,http://wouu.net:9977/udp/239.93.0.184:5140,
 CCTV-2,http://wouu.net:9977/udp/239.93.1.23:6000,
@@ -615,10 +611,7 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 新疆卫视,http://www.ly123.fun:10000/rtp/235.254.198.47:1464
 西藏卫视,http://www.ly123.fun:10000/rtp/235.254.198.46:1460
 纪实,http://www.ly123.fun:10000/rtp/235.254.198.121:1760
-IPTV3,http://www.ly123.fun:10000/rtp/235.254.198.13:1328
-IPTV5,http://www.ly123.fun:10000/rtp/235.254.198.14:1332
-IPTV6,http://www.ly123.fun:10000/rtp/235.254.198.15:1336
-IPTV8,http://www.ly123.fun:10000/rtp/235.254.198.16:1340
+
 热播剧场,http://www.ly123.fun:10000/rtp/235.254.198.113:1728
 经典电影,http://www.ly123.fun:10000/rtp/235.254.198.114:1732
 城市剧场,http://www.ly123.fun:10000/rtp/235.254.198.74:1572
@@ -633,18 +626,6 @@ IPTV8,http://www.ly123.fun:10000/rtp/235.254.198.16:1340
 家庭影院,http://www.ly123.fun:10000/rtp/235.254.198.100:1676
 星影,http://www.ly123.fun:10000/rtp/235.254.198.101:1680
 重庆卫视,http://www.ly123.fun:10000/rtp/235.254.198.34:1412
-CCTV-1,http://www.ly123.fun:10000/rtp/235.254.198.1:1280
-CCTV-2,http://www.ly123.fun:10000/rtp/235.254.198.2:1284
-CCTV-3,http://www.ly123.fun:10000/rtp/235.254.198.141:1842
-CCTV-4,http://www.ly123.fun:10000/rtp/235.254.198.3:1288
-CCTV-5,http://www.ly123.fun:10000/rtp/235.254.198.142:1846
-CCTV-6,http://www.ly123.fun:10000/rtp/235.254.198.143:1852
-CCTV-7,http://www.ly123.fun:10000/rtp/235.254.198.4:1292
-CCTV-8,http://www.ly123.fun:10000/rtp/235.254.198.144:1856
-CCTV-9,http://www.ly123.fun:10000/rtp/235.254.198.5:1296
-CCTV-10,http://www.ly123.fun:10000/rtp/235.254.198.6:1300
-CCTV-12,http://www.ly123.fun:10000/rtp/235.254.198.8:1308
-CCTV-少儿,http://www.ly123.fun:10000/rtp/235.254.198.10:1316
 江苏卫视,http://www.ly123.fun:10000/rtp/235.254.198.19:1352
 湖南卫视,http://www.ly123.fun:10000/rtp/235.254.198.17:1344
 东方卫视,http://www.ly123.fun:10000/rtp/235.254.198.33:1408
