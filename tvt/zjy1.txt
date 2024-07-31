@@ -641,7 +641,6 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 河北卫视,http://www.ly123.fun:10000/rtp/235.254.198.128:1788
 东南卫视,http://www.ly123.fun:10000/rtp/235.254.198.35:1416
 爱上4K,http://www.ly123.fun:10000/rtp/235.254.198.102:7980
-芒果TV,http://www.ly123.fun:10000/rtp/235.254.196.206:7980
 求索记录,http://36.105.40.21:8083/udp/238.125.2.198:5140
 求索记录,http://36.105.40.21:8083/udp/238.125.5.108:5140
 金鹰卡通,http://60.10.135.181:555/udp/239.253.92.163:8055
@@ -807,7 +806,6 @@ CHC家庭影院,http://zisong2014.oicp.net:4022/udp/225.1.1.213:5002
 辽宁卫视,http://cq6.xeace.top:20002/udp/235.254.198.68:1548
 辽宁卫视,http://cq6.xeace.top:20002/udp/235.254.199.23:7980
 辽宁卫视,http://cq6.xeace.top:20002/udp/235.254.199.68:7980
-芒果TV,http://cq6.xeace.top:20002/udp/235.254.196.206:7980
 内蒙古卫视,http://cq6.xeace.top:20002/udp/235.254.197.169:7980
 内蒙古卫视,http://cq6.xeace.top:20002/udp/235.254.199.42:7980
 宁夏卫视,http://cq6.xeace.top:20002/udp/235.254.199.45:7980
@@ -851,9 +849,6 @@ CHC动作电影,http://cq6.xeace.top:20002/udp/235.254.199.247:7980
 CHC电影,http://cq6.xeace.top:20002/udp/235.254.199.248:7980
 CHC家庭影院,http://cq6.xeace.top:20002/udp/235.254.199.246:7980
 
-CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
