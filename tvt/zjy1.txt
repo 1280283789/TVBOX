@@ -417,9 +417,6 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 金鹰卡通,http://www.ly123.fun:10000/rtp/235.254.198.50:1476
 嘉佳卡通,http://www.ly123.fun:10000/rtp/235.254.198.110:1716
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-
-安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 
 北京卫视,http://36.105.40.21:8083/udp/238.125.4.24:5140
 北京卫视,http://36.105.40.21:8083/udp/238.125.0.24:5140
